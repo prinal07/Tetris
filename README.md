@@ -1,2 +1,5 @@
 # Tetris
-Full Stack Web Development
+Tetris game designed using Full Stack Web Development. 
+
+
+
